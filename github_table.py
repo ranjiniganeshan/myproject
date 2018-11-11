@@ -2,7 +2,7 @@ from github import Github
 from prettytable import PrettyTable
 
 # or using an access token
-g = Github(base_url="https://github.wdf.sap.corp/api/v3", login_or_token="160c8200bfc9f1ad33ea977a57dec99d429d635a")
+g = Github(base_url="https://github.-----------, login_or_token="")
 org = input("Enter the name of the Organisation: ")
 c = PrettyTable()
 
