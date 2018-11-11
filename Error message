@@ -1,0 +1,8 @@
+(python3_env) :misc$ python example13.py
+  File "example13.py", line 41
+    myFile = open('example2.csv', 'w')
+         ^
+SyntaxError: invalid syntax
+(python3_en:m$ python example13.py
+  File "example13.py", line 42
+    myFile = open('example2.csv', 'w')
